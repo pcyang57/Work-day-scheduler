@@ -83,7 +83,7 @@ You are required to submit the following for review:
 
 * https://github.com/pcyang57/Work-day-scheduler
 
-* The URL of the GitHub repository, with a unique name and a README describing the project
+* https://pcyang57.github.io/Work-day-scheduler/
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
